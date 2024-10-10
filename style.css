@@ -19,19 +19,24 @@ header {
 }
 
 nav {
-border: 2px solid #999;
-margin-bottom: 10px;
+    border: 2px solid #999;
+    margin-bottom: 10px;
 }
 
 section {
-border: 2px solid #999;
-margin-bottom: 10px;
-padding: 20px;
+    border: 2px solid #999;
+    margin-bottom: 10px;
+    padding: 20px;
+    width: 400px;
+    float: left;
+    
 }
 
 aside {
     border: 2px solid #999;
-margin-bottom: 10px;
+    margin-bottom: 10px;
+    width: 152px;
+    float: right;
 }
 
 footer {
