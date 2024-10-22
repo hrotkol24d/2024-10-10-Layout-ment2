@@ -9,7 +9,7 @@ main {
     border-radius: 10px;
     width: 600px;
     margin: auto;
-    padding: 20px;
+    padding: 10px;
 }
 
 header {
@@ -29,18 +29,20 @@ section {
     padding: 20px;
     width: 400px;
     float: left;
-    
 }
 
 aside {
     border: 2px solid #999;
     margin-bottom: 10px;
-    width: 152px;
+    width: 142px;
     float: right;
 }
 
 footer {
     border: 2px solid #999;
-    margin-bottom: 10px;
+}
+
+.clear {
+    clear: both;
 }
 
